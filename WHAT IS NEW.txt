@@ -1,0 +1,9 @@
+the following tells what is new and what has been updated:
+
+1- I created new php files in resources/views/home-page: 
+   header, footer, index, login and register
+   with their links with routes
+2- I created User Controller in app/http/controllers for routing
+3- I organized the links and routes
+4- I added the links for header sections
+5- I created css and js folders in public for home-page and admin-page

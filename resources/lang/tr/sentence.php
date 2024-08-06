@@ -1,0 +1,113 @@
+<?php
+
+return [
+
+
+    'Login' => 'Giriş Yap',
+    'Sign Up' => 'Kayıt ol',
+    'Home' => 'Anasayfa',
+    'Services' =>'Hizmetler',
+    'Pricing' => 'Ödeme',
+    'About Us' => 'Hakkımızda',
+    'Team' => 'Takım',
+    'Contact' => 'İletişim',
+    ' Logout'=>'Çıkış Yap',
+     ' name'=>'İsim Soyisim',
+    ' Subject'=>'Konu',
+    ' Send'=>'Gönder',
+    ' Message'=>'Mesaj',
+    'What We Offer'=>'Teklifimiz',
+    'headt'=>'Türkçe’den İngilizce’ye (tercüme ve düzeltme) ',
+    'contentt'=>'Makalenizi önce İngilizce’ ye çeviriyoruz ve ardından editörlerimiz düzenlemeyi yapıyor. .',
+    'heade'=>'İngilizce’den İngilizce’ye (düzeltme) ',
+    'contente'=>'editörlerimiz İngilizce yazılmış makalenizi düzenler ve düzeltir. ',
+    'more'=>'Daha fazla bilgi',
+    'Pricing Plans'=>'Fiyatlandırma Planları ',
+    'Choose a pricing plan that fits your needs'=>'İhtiyaçlarınıza uygun bir fiyatlandırma planı seçin. ',
+    'Turkish to English'=>'Türkçeden İngilizceye ',
+    'word'=>'kelime',
+    'English to English'=>'İngilizceden İngilizceye ',
+    'Get Started'=>'Başla',
+    'Instant Quote'=>'Kelime Hesapla',
+    'Select Type project'=>'Proje Seç',
+    'Who We Are'=>'Biz Kimiz',
+    'CEO & Founder'=>'CEO ve Kurucu ',
+    'EnTr Editing & Translation'=>'EnTr Düzenleme & Çeviri ',
+    'Mrs. Bayram is one of the cofounders of EnTr Editing & Translation...'=>'EnTr Editörlük ve Çeviri’nin kurucularından Sayın Bayram... ',
+    'Dr. Bayram is a Public Health Specialist and is one of the cofounders of EnTr...'=>'Dr. Bayram Halk Sağlığı Uzmanı olup EnTr’nin kurucu ortaklarındandır... ',
+    'Dr. Adebayo is the founder and Chief Executive Officer of Livinghealth..'=>'Dr. Adebayo, Livinghealth’in kurucusu ve CEO’sudur.',
+    'Anna Schmitt, MPH is a co-founder of Yarrow, LLC..'=>'Anna Schmitt, MPH, Yarrow, LLC’nin kurucu ortağıdır. ',
+    'Naham Shapiro is a Public Health Specialist with global experience working..'=>'Naham Shapiro, küresel çalışma deneyimine sahip bir Halk Sağlığı Uzmanıdır... ',
+
+    'İletişim'=>'İletişim',
+    'Bize bir mesaj bırakabilirsiniz'=>'Bize bir mesaj bırakabilirsiniz',
+    'İsim Soyisim'=>'İsim Soyisim',
+    'E-mail'=>'E-mail',
+    'Konu'=>'Konu',
+    'Mesaj'=>'Mesaj',
+    'Gönder'=>'Gönder',
+    'Log in'=>'Giriş Yap',
+    'Password'=>'Şifre',
+    'Reset'=>'Sıfırla',
+    'remember'=>'Beni hatırla',
+    'Forgot Your Password?'=>'Şifremi unuttum ',
+    'Create an Account'=>'Yeni Hesap oluştur',
+    'New Account'=>'Yeni Hesap oluştur',
+    'Username'=>'Kullanıcı Adı',
+    'Confirm Password'=>'Şifre Tekrar',
+    'Already have an account ?'=>'Zaten hesabınız var mı ? ',
+    'University'=>'Üniversite',
+    'Register'=>'Kaydet',
+    'Forgot Password?'=>'Parolanızı mı unuttunuz? ',
+    'You can reset your password here.'=>'Şifrenizi buradan sıfırlayabilirsiniz. ',
+    'Send Password Reset Link'=>'Gönder ',
+    'Apply'=>'Şimdi Uygula',
+    'Proje  Numarası'=>'Proje  Numarası',
+    'Proje ismi'=>'Proje ismi ',
+    'Kelime Sayısı'=>'Kelime Sayısı ',
+    'Toplam fiyat'=>'Toplam fiyat ',
+    'Ödeme Durum'=>'Ödeme Durum ',
+    'Proje Durum'=>'Proje Durum ',
+    'Country'=>'Ülke',
+    'Create Date'=>'Oluşturma Tarihi',
+    'My Account Information'=>'Profil Bilgilerim',
+    'Change My Account Information'=>'Profil Bilgilerimi Değiştir',
+    'Güncelle'=>'Güncelle',
+    'Current Password'=>'Eski Şifre',
+    'New Password'=>'Yeni Şifre',
+    'New Confirm Password'=>'Yeni Şifre Tekrar',
+    'Update Password'=>'Şifremi Güncelle',
+    'To the top'=>'Başa Dön',
+    'Privacy Policy'=>'Gizlilik Politikası',
+
+
+
+
+
+
+    'privacyhead'=>'Entrediting Gizlilik Politikası ve Kullanım Koşulları ',
+    'view my profile'=>'Profilimi Göster ',
+    'My Project'=>'Projelerim',
+    'Edit my information'=>'Profil Bilgileri Güncelle',
+    'Choose a service'=>'Hizmet Seç',
+    'Hello'=>'Merhaba',
+    'translationhead'=>'Türkçe’den İngilizce’ye (tercüme ve düzeltme)',
+    'translationtext'=>'Türkçe bir makale yazdınız fakat uluslararası bir dergide mi yayınlamak istiyorsunuz? EnTr editing tam aradığınız adres. Makalenizi gönderin, önce tercümanlarımız makalenizi Türkçe’ye çevirsin, sonra tamamı Halk Sağlığı alanında uzman ve anadili İngilizce olan editörlerimiz makalenizi dil açısından yayınlanmaya hazır hale getirsinler.Her zaman kolaylıkla ulaşabileceğiniz Türkçe konuşabilen koordinatörümüzle görüşerek makaleniz ile ilgili istediğiniz noktaları detaylıca konuşabilir ve tercüme sırasında oluşabilecek anlam kayıplarının önüne geçebilirsiniz.
+        Dil garantisi veriyoruz!Bize gönderdiğiniz makaleyi herhangi bir dergiye göndermeniz ve dil ile ilgili düzeltme istenmesi durumunda tüm sorumluluğu alıyor ve tüm düzeltmeleri tekrar ücretsiz olarak yapıyoruz.',
+    'editinghead'=>'İngilizce’den İngilizce’ye (düzeltme)',
+    'editingtext'=>'İngilizce bir makale yazdınız ve uluslararası bir dergide yayınlamak istiyorsunuz; fakat dilinin yeterince iyi olmadığını mı düşünüyorsunuz? EnTr editing tam aradığınız adres. Makalenizi gönderin, tamamı Halk Sağlığı alanında uzman ve anadili İngilizce olan editörlerimiz makalenizi dil açısından yayınlanmaya hazır hale getirsinler.
+        Her zaman kolaylıkla ulaşabileceğiniz Türkçe konuşabilen koordinatörümüzle görüşerek makaleniz ile ilgili istediğiniz noktaları detaylıca konuşabilir ve tercüme sırasında oluşabilecek anlam kayıplarının önüne geçebilirsiniz.
+        Dil garantisi veriyoruz!Bize gönderdiğiniz makaleyi herhangi bir dergiye göndermeniz ve dil ile ilgili düzeltme istenmesi durumunda tüm sorumluluğu alıyor ve tüm düzeltmeleri tekrar ücretsiz olarak yapıyoruz.',
+    'About' => '
+        Türkçe bir makale yazdınız fakat uluslararası bir dergide mi yayınlamak istiyorsunuz? Ya da yazdığınız İngilizce makalenin doğru yazıldığından emin mi değilsiniz? EnTr editing tam aradığınız adres. Makalenizi gönderin, tamamı Halk Sağlığı alanında uzman ve anadili İngilizce olan editörlerimiz makalenizi dil açısından yayınlanmaya hazır hale getirsinler.
+        Her zaman kolaylıkla ulaşabileceğiniz Türkçe konuşabilen koordinatörümüzle görüşerek makaleniz ile ilgili istediğiniz noktaları detaylıca konuşabilir ve tercüme sırasında oluşabilecek anlam kayıplarının önüne geçebilirsiniz.
+        Dil garantisi veriyoruz! Bize gönderdiğiniz makaleyi herhangi bir dergiye göndermeniz ve dil ile ilgili düzeltme istenmesi durumunda tüm sorumluluğu alıyor ve tüm düzeltmeleri tekrar ücretsiz olarak yapıyoruz.',
+    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
+    'anna'=>'Anna Schmitt, Montana, ABD merkezli bir halk sağlığı danışmanlık şirketi olan Yarrow, LLC`nin kurucularındandır. Burada sıklıkla fon alma projeleri, ayrıca halk sağlığı planlaması ve araştırma projeleri hazırlamaktadır. Lisansını Anropoloji dalında Orta Doğu çalışmaları ve tarih üzerine Vermont Üniversitesi`nden, Uluslararası Halk Sağlığı Yüksek Lisansını ise Kudüs İbrani Üniversitesi`nden almıştır. Anna, çok sayıda yerel ve eyalet hükümeti ile yakın çalışmakta ve uluslararası halk sağlığı projeleri yürütmektedir. Uluslararası konferanslarda çok sayıda sunum yapmış ve makaleleri ululararası prestijli dergilerde yayınlanmıştır',
+    'naham'=>'Naham Shapiro, uluslararası deneyime sahip bir Halk Sağlığı araştırmacısı ve uygulayıcısıdır. Lisansını Arapça ve Uluslararası Çalışmalar alanında Maryland Üniversitesi`nden; Uluslararası Halk Sağlığı Yüksek Lisansını Kudüs İbrani Üniversitesinden almıştır. Naham ın tutkusu yetersiz hizmet alan toplulukların refahını iyileştirmektir ve bu amaçla Amerika Birleşik Devletleri, İsrail, Uganda ve Hindistan `da toplumsal ve klinik ortamlarda çalışmıştır. Uluslararası çeşitli kongrelerde sunumlar yapmış, makaleleri prestijli dergilerde yayınlanmıştır. Ayrıca makaleler ve kitaplar dahil olmak üzere çeşitli bilimsel yazıların editörlüğünü yapmıştır.',
+    'veen'=>'Veene Sulaivany-Bayram, EnTr Editing & Translationın kurucularından biridir. Lisansını Kanada Toronto`daki York Üniversitesi`nde Kamu Politikaları ve İnsan Kaynakları Yönetimi dalında yapmıştır. Ayrıca York Üniversitesi`nden Başka Dilleri Konuşanlara İngilizce Öğretimi (TESOL) öğretmenlik sertifikası almış ve uzun süre göçmen öğrencilere İngilizce öğretmiştir. Buna ek olarak, Kanada Mississauga`daki Canadian College of Educators`tan IELTS hazırlık kursu sertifikası almıştır. 2017-2019 yılları arasında İstanbul’da prestijli iki özel okulda İngilizce öğretmenliği yapmıştır. Uluslararası birçok dergide yayınlanan onlarca tıbbi makalenin İngilizce dil editörlüğünü yapmıştır',
+    'tevfik'=>'Uzm. Dr. Tevfik Bayram, EnTr Editing & Translation`ın kurucularından biridir. Lisans eğitimini Marmara Üniversitesi Tıp Fakültesinde tamamladıktan sonra yine aynı üniversitede Halk Sağlığı Uzmanlığı eğitimi almıştır. Uzmanlık tezini, Bern Üniversitesi bünyesinde yürütülen İsviçre`de yaşayan göçmen kadınların sağlık hizmetlerine erişimi ile ilgili MIWOCA projesinden yazmıştır. Daha sonra Kudüs İbrani Üniversitesi`nde Uluslararası Halk Sağlığı Yüksek Lisansını (IMPH) tamamlamıştır. Birçok uluslararası projeye katılan ve konferanslarda hem sunum yapan hem de moderatörlük yapan Dr. Bayramın bilimsel makaleleri dünyanın saygın uluslararası dergilerinde yayınlanmıştır. Ayrıca çeşitli uluslararası projede tercümanlık yapmış ve çeşitli kitapları İngilizce’den Türkçe’ye çevirmiştir.',
+    'gbenga'=>'Dr. Adebayo, merkezi Nijerya`da bulunan bir Toplumsal Sorumluluk Şirketi olan Livinghealth International`ın kurucusu ve İcra Kurulu Başkanıdır. Girişimcilik, Sağlık ve Zindelik Çözümlerinin yanı sıra Liderlik ve İnsan Becerileri konusunda birçok kuruluşa danışmanlık yapmaktadır. İnsan sağlığını geliştirmeye ve üretkenliklerini artırmaya teşvik etmek için yenilikçi yollar aramakta ve inovasyonla ilgilenmektedir. Nijerya’da ilk çevrimiçi Pidgin English sağlık şovu olan Area Doctor`un kuruculuğunu yapmış ve ayrıca birçok başka eğitici sağlık skeçleri ve dramaları yapmaktadır. İlgi alanları arasında Liderlik, Sağlığın Teşviki ve Geliştirilmesi ve e-Sağlık yer almaktadır. Dr. Adebayo Uluslararası Halk Sağlığı Yüksek Lisansını Kudüs İbrani Üniversitesinde tamamlamış ve makaleleri uluslararası saygın dergilerde yayınlanmıştır. ',
+];
+
+?>
